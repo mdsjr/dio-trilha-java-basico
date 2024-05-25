@@ -19,8 +19,9 @@ public class Comentarios {
                   r= n * x;
                 }else{
                 // se não soma mesmo
-                r = n + x
+                r = n + x;
             }
+            
             return r;
         }
 }
