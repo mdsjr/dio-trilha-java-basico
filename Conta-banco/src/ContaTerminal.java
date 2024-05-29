@@ -25,7 +25,5 @@ public class ContaTerminal {
         //Exibir a mensagem final da conta criadajuca 
         System.out.println("Olá,"+nome+" obrigado por criar uma conta em nosso banco, sua agência é "+agencia+" conta "+numeroConta+" e seu saldo de "+ saldo +" já está disponível para saque");
 
-
-
     }
 }
